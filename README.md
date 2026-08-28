@@ -106,3 +106,17 @@ Detected boxes are drawn over the video, and labels with confidence scores
 show up in the side panel. Detections below 40% confidence are treated as
 no detection, to avoid flickering on borderline noise — adjust
 `CONFIDENCE_FLOOR` in `app.js` if you want it more or less sensitive.
+
+
+
+
+
+
+
+
+
+
+
+<img width="1174" height="1538" alt="B151204A-EC56-48E4-B629-A3534AF8E6DA" src="https://github.com/user-attachments/assets/6709c614-fa70-48ca-a5b5-59d655d5e459" />
+
+
